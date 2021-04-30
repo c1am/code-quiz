@@ -1,4 +1,4 @@
-// list of all questions, choices, and answers
+// List of all questions, choices, and answers
 var questions = [
     {
       title: "Commonly used data types DO NOT include:",
@@ -11,5 +11,5 @@ var questions = [
       choices: ["JavaScript", "terminal / bash", "for loops", "console.log"],
       answer: "console.log"
     }
-  ];
+];
   
